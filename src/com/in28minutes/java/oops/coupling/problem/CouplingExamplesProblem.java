@@ -34,7 +34,3 @@ class Order {
 		return cartTotalPrice;
 	}
 }
-
-public class CouplingExamplesProblem {
-
-}

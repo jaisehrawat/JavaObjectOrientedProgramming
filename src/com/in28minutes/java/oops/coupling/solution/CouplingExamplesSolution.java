@@ -34,7 +34,3 @@ class Order {
 		return cart.getTotalPrice() * (1.0f + salesTax);
 	}
 }
-
-public class CouplingExamplesSolution {
-
-}
